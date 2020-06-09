@@ -8,3 +8,5 @@ cut -d',' -f15,17 flightdelay2007.csv | grep SFO | head -3 | csvlook
 cut -d',' -f15,17 flightdelay2007.csv | grep SFO | head -3 > first3sfo.csv
 
 #david shih
+
+#change 2 after pull
